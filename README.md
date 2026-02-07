@@ -79,5 +79,16 @@ Balancing automation with explainability in decision-making
 
 Handling AI and API failure states gracefully
 
+Screenshots:
+
+Starting Screen
+![First Screen](screenshots/first-screen-recruitai.png)
+
+Results Screen
+![Result Screen](screenshots/results-screen-recruitai.png)
+
+n8n Workflow (Backend)
+![n8n workflow](screenshots/n8n-workflow-recruitai.png)
+
 Live Demo:
 [https://best-recruit-ai.lovable.app](url)
