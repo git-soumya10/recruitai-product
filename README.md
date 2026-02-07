@@ -35,6 +35,7 @@ Job Description Input → Resume Upload → AI Analysis → Scoring → Recommen
 System Design:
 
 Frontend: Web-based UI
+
 Backend: Agentic AI workflow orchestration
 
 Orchestration Tool: n8n
